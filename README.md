@@ -46,6 +46,14 @@
 
 
 
+### Software  
+![](undefined)  
+  
+
+<div align="center">  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+</div>
+
 </td></tr></table>  
 
 <br/>  
@@ -82,6 +90,7 @@
 
 
 ### Spotify Jam Session  
+<br/>
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31pkr76qd76j4ll2a7hxh72yrlou&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
 
 <br/>  
