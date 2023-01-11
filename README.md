@@ -1,8 +1,7 @@
 ### <div align="center">I'm Ekomobong Bassey Edeme. An aspiring Frontend Web developer👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [Modern-ui/ux-landing page](https://github.com/KingLyrics/Modern-ui-ux-landing-page)  
-  
+- 🔭 I’m currently working on myself...
 
 - ⚛️ I’m currently learning **React, Javascript, Tailwind CSS, Typescript, Svelte, PHP, Node js, Mysql, Figma**  
   
