@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on myself...
 
-- ⚛️ I’m currently learning **React, Javascript, Tailwind CSS, Typescript, Svelte, PHP, Node js, Mysql, Figma**  
+- ⚛️ I’m currently learning **TypeScript**  
   
 
 - 🤓Ask me about Front End technologies.  
