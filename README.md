@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Frontend Mentor Challenges<br><br>⚛️ I’m currently learning Vue.js<br><br>
+🔭 I’m currently working on Frontend Mentor Challenges<br><br>⚛️ I’m currently learning React<br><br>
 
 
 ## 🌐 Socials:
