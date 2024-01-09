@@ -22,6 +22,8 @@
 [![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000973.fa2d78827cec4e6ca30b1f1324cae69a.1329)](https://github.com/rayriffy/apple-music-github-profile)
 ---
 
+//[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pkr76qd76j4ll2a7hxh72yrlou&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profi/.le)
+
 [![](https://visitcount.itsvg.in/api?id=Kinglyrics&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
