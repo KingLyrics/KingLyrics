@@ -13,7 +13,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pkr76qd76j4ll2a7hxh72yrlou&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pkr76qd76j4ll2a7hxh72yrlou&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kinglyrics&icon=0&color=11)](https://visitcount.itsvg.in)
