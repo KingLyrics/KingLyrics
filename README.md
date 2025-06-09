@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ekomobong Bassey Edeme</h1>
 <h3 align="center">A passionate backend developer with a focus on Java, Spring boot and other backend technologies.</h3>
 
-- 🔭 I’m currently working on [Banking Management System](https://github.com/KingLyrics/BankingManagementSystem)
+- 🔭 I’m currently working on [Expense Tracker](https://github.com/KingLyrics/Expense-Tracker)
 
-- 🌱 I’m currently learning **Java, Spring Boot, MySql, Postgresql**
+- 🌱 I’m currently learning **Java, Spring Boot, MySql, Postgresql, Maven**
 
 - 💬 Ask me about **Java, Spring Boot**
 
-- 📫 How to reach me **ekom338.com@gmail.co**
+- 📫 How to reach me **ekom338.com@gmail.com**
 
 - ⚡ Fun fact **I'm pretty tall.**
 
