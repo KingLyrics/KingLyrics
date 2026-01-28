@@ -1,34 +1,72 @@
-<h1 align="center">Hi 👋, I'm Ekomobong Bassey Edeme</h1>
-<h3 align="center">A passionate backend developer with a focus on Java, Spring boot and other backend technologies.</h3>
+# 👋 Hi, I’m Ekom
 
-- 🔭 I’m currently working on [Expense Tracker](https://github.com/KingLyrics/Expense-Tracker)
-
-- 🌱 I’m currently learning **Java, Spring Boot, MySql, Postgresql, Maven**
-
-- 💬 Ask me about **Java, Spring Boot**
-
-- 📫 How to reach me **ekom338.com@gmail.com**
-
-- ⚡ Fun fact **I'm pretty tall.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kinglyrics&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kinglyrics&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kinglyrics&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-
+> *“Faithful in little, entrusted with much.”*  
+> Linux • Systems Administration • Cloud Infrastructure
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kinglyrics&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+I’m a **Linux-focused System Administration enthusiast** with a strong interest in **cloud infrastructure, automation, and security**.  
+I enjoy building, breaking, and fixing systems — from local Linux servers to cloud-based environments.
+
+- 🐧 Daily driver: **Linux**
+- 💻 Shell of choice: **Bash**
+- ☁️ Learning & building in **cloud platforms**
+- 🔐 Interested in **security, reliability, and infrastructure**
+- 📈 Long-term goal: **Senior Linux / Cloud Systems Engineer**
+
+---
+
+## 🛠️ Tech Stack
+
+### Operating Systems & Tools
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Systems & Infrastructure
+![System Administration](https://img.shields.io/badge/System%20Administration-2E3440?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Networking-00599C?style=for-the-badge)
+![Security](https://img.shields.io/badge/Security-8B0000?style=for-the-badge)
+
+### Cloud & DevOps (Growing)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📂 What You’ll Find Here
+
+- 🔧 **Linux system administration labs**
+- 🖥️ **Server setup & hardening**
+- 🔄 **Automation scripts (Bash)**
+- ☁️ **Cloud infrastructure experiments**
+- 🧪 **Break–fix troubleshooting scenarios**
+
+Everything here is **hands-on, practical, and real**.
+
+---
+
+## 🎧 Currently Listening To
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
+
+> Music helps me stay focused while debugging at 2 AM 😄
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: **You’re already here**
+- LinkedIn: *(optional – add later)*
+
+---
+
+## 🙏 Final Note
+
+> “Commit your work to the Lord, and your plans will be established.” — Proverbs 16:3
+
+I believe in **discipline, humility, and consistency** — in life and in systems.
+
+Thanks for stopping by.
