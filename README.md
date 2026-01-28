@@ -48,18 +48,14 @@ Everything here is **hands-on, practical, and real**.
 
 ---
 
-## 🎧 Currently Listening To
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
 
-> Music helps me stay focused while debugging at 2 AM 😄
 
----
 
 ## 📫 Connect With Me
 
 - GitHub: **You’re already here**
-- LinkedIn: *(optional – add later)*
+
 
 ---
 
